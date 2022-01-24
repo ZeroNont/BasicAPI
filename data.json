@@ -1,0 +1,26 @@
+[
+    {
+        "title": "What is Cryptocurrency ?",
+        "sub_title": "A Cryptocurrency is a digital or virtual currency that is secured by cryptography, which makes it nearly impossible to counterfeit or double-spend.",
+        "image_url": "https://cdn.pixabay.com/photo/2021/05/29/15/55/ethereum-6293700_1280.jpg",
+        "detail": "A cryptocurrency (or “crypto”) is a form of payment that can circulate without the need for a central monetary authority such as a government or bank. Instead, cryptocurrencies are created using cryptographic techniques that enable people to buy, sell or trade them securely.\n\nCryptocurrencies can be exchanged for goods and services, though they often are used as investment vehicles. Cryptocurrency is also a key part of the operation of some decentralized financial networks, where digital tokens are an important tool for carrying out transactions.\n\nThe most popular cryptocurrency, Bitcoin, has had a historically volatile price. In 2021, it hit an all-time high above $65,000 before falling back."
+    },
+    {
+        "title": "What Is Cryptocurrency in Simple Words ?",
+        "sub_title": "Cryptocurrencies are systems that allow for secure payments online which are denominated in terms of virtual 'tokens.'",
+        "image_url": "https://cdn.pixabay.com/photo/2020/08/23/19/12/ethereum-5511808_1280.jpg",
+        "detail": "A cryptocurrency is a type of currency which uses digital files as money. Usually, the files are created using the same ways as cryptography (the science of hiding information). Digital signatures can be used to keep the transactions safe, and let other people check that the transactions are real. The first cryptocurrencies were made to be free of government-given currencies.\n\nCryptocurrencies use 'decentralized control'. That means that government can not control cryptocurrencies. This is different to 'centralized' electronic money and central banks. The control of each cryptocurrency works through a distributed ledger (a list of transactions shared by everyone), usually a blockchain, that serves as a public financial transaction database.\n\nBitcoin, first released as open-source software in 2009. It is often called the first decentralized cryptocurrency. Since then, over 4,000 cryptocurrencies (sometimes called altcoins, which is short for alternative coins) have been created."
+    },
+    {
+        "title": "How Do You Get Cryptocurrency ?",
+        "sub_title": "Any investor can purchase cryptocurrency through crypto exchanges like Coinbase, Cash app, and more.",
+        "image_url": "https://cdn.pixabay.com/photo/2017/10/14/22/20/farm-2852025_1280.jpg",
+        "detail": "You can buy cryptocurrency through an online exchange platform. Some people earn cryptocurrency through a complex process called “mining,” which requires advanced computer equipment to solve highly complicated math puzzles."
+    },
+    {
+        "title": "What Is the Point of Cryptocurrency ?",
+        "sub_title": "Cryptocurrencies are a new paradigm for money. Their promise is to streamline existing financial architecture to make it faster and cheaper.",
+        "image_url": "https://cdn.pixabay.com/photo/2017/11/05/21/31/bitcoin-2921930_1280.jpg",
+        "detail": "Cryptocurrencies are a new paradigm for money. Their promise is to streamline existing financial architecture to make it faster and cheaper. Their technology and architecture decentralize existing monetary systems and makes it possible for transacting parties to exchange value and money without the use of intermediary institutions like banks."
+    }
+]
